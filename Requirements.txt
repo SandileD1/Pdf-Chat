@@ -1,7 +1,3 @@
-python-dotenv
-faiss-cpu
-pymupdf
-tiktoken
 streamlit
 streamlit-extras
 PyPDF2
@@ -10,3 +6,8 @@ langchain_core
 langchain-community
 langchain-ollama
 langchain-huggingface
+python-dotenv
+faiss-cpu
+pymupdf
+tiktoken
+
