@@ -20,7 +20,7 @@ model = ChatOllama(model='llama3.2:1b', base_url='http://localhost:11434')
 
 def inject_custom_css():
     
-    with open("C:/Users/f5532493/OneDrive - FRG\Desktop/G20 Sec/.venv/assets/style.css") as f:
+    with open("assets/style.css") as f:
         st.markdown(f'<style>{f.read()}</style>',unsafe_allow_html=True)
 
 def get_pdf_text(pdf_docs):
