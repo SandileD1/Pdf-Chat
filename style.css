@@ -38,10 +38,8 @@
 }
 
 /* Large sidebar container */
-.st-emotion-cache-a6qe2i.e1c29vlm7{
+.st-emotion-cache-a6qe2i.e1c29vlm7 {
     background-color: #3E3232;
-    /* background-image: url(https://i.ibb.co/WvQkdGSD/flower-wallpaper.jpg); */
-    /* background-attachment: scroll; */
 }
 
 /* Small sidebar container */
@@ -50,8 +48,12 @@
     background-image: url(https://i.ibb.co/JWQBYX5H/book-drop.jpg);
 }
 
+.st-emotion-cache-kgpedg.e1c29vlm10 {
+    background-color: #3E3232;
+}
+
 /* Sidebar hide/show button */
-.stSidebar.st-emotion-cache-1wqrzgl.e1c29vlm0" {
+.stSidebar.st-emotion-cache-1ysmvgn.e1c29vlm0 {
     background-color: crimson; 
 }
 
