@@ -1,0 +1,12 @@
+streamlit
+streamlit-extras
+PyPDF2
+langchain
+langchain_core 
+langchain-community
+langchain-ollama
+langchain-huggingface
+python-dotenv
+faiss-cpu
+pymupdf
+tiktoken
