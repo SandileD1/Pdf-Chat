@@ -1,6 +1,7 @@
 streamlit
 streamlit-extras
 PyPDF2
+pycryptodome
 langchain
 langchain_core 
 langchain-community
