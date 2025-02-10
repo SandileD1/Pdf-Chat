@@ -1,0 +1,113 @@
+/* Fonts for the app */
+#f8f880a4 {
+    color: white;
+}
+
+.h2 {
+    color: white;
+}
+
+/* Reset button */
+.st-emotion-cache-ocsh0s.e1d5ycv52 {
+    font-family: cursive;
+    background-color: #31363F;
+    color: white;
+}
+
+/* Header buttons */
+[data-testid="stBaseButton-header"] {
+    color: white;
+}
+
+[data-testid="stBaseButton-headerNoPadding"] {
+    color: white;
+}
+
+/* Upload your documents text */
+.st-emotion-cache-fsammq.egexzqm0 {
+    font-size: small;
+}
+
+/* Browse & Process file buttons */
+.st-emotion-cache-zaw6nw.e1d5ycv52 {
+    background-color: #31363F;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+/* Top banner element */
+[data-testid="stHeader"] {
+    background-color: black;
+ }
+
+/* Main body with chat */
+.stMain.st-emotion-cache-bm2z3a.eht7o1d1 {
+    background-color: #5C7285;
+    background-image: url(https://i.ibb.co/p6W9Prby/dark-books1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+/* Bottom banner element */
+.st-emotion-cache-128upt6 {
+    background-color: black;
+ }
+
+/* Large sidebar container */
+.st-emotion-cache-a6qe2i.e1c29vlm7 {
+    background-color: #3E3232;
+}
+
+.st-emotion-cache-6qob1r.e1c29vlm8 {
+    background-color: #3E3232;
+}
+
+/* Small sidebar container */
+.stFileUploader.st-emotion-cache-fppnp9.e1blfcsg15 {
+    background-color: #3E3232;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.st-emotion-cache-fsammq.egexzqm0 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.st-emotion-cache-1aehpvj.ejh2rmr0 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 12px;
+}
+
+[data-testid="stFileUploaderDropzone"] {
+    background-image: url(https://i.ibb.co/JWQBYX5H/book-drop.jpg);
+    /* font-family: Arial, Helvetica, sans-serif; */
+    color: white;
+}
+
+.st-emotion-cache-kgpedg.e1c29vlm10 {
+    background-color: #3E3232;
+}
+
+.st-emotion-cache-1104ytp.egexzqm0 {
+    color: white;
+}
+
+/* Message text */
+.message {
+    background-color: #3E3232;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 5px;
+}
+
+
+/* Background text in sidebar */
+.st-emotion-cache-1mw54nq.egexzqm0 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    color: white;
+}
